@@ -27,6 +27,7 @@ import org.slf4j.Logger;
 @Mod(TutorialMod.MOD_ID)
 public class TutorialMod {
 	public static final String MOD_ID = "tutorialmod";
+	//TODO: implement
 	private static final Logger LOGGER = LogUtils.getLogger();
 
 	public TutorialMod() {
